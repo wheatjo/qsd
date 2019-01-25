@@ -7,7 +7,7 @@ import yolo.config as cfg
 from yolo.yolo_net import YOLONet
 from utils.timer import Timer
 
-
+#yaoxu
 class Detector(object):
 
     def __init__(self, net, weight_file):
